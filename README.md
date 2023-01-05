@@ -1,4 +1,5 @@
 # healthchecker
-cli util to check alive of service
+cli util to check health of service with interval
+
 usage:  
-      ./bin_name interval_in_seconds url
+      ```./bin_name interval_in_seconds url```
